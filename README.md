@@ -4,8 +4,7 @@
     Bem vindo ao meu github!
   </h1>
   <h2>Meu nome é Rafael Costa<br>
-  Atualmente estou estudando Análise e Desenvolvimento de SIstemas
+  Atualmente estou estudando Análise e Desenvolvimento de SIstemas   <img src="./code.svg">
   </h2>
-  <img src="./code.svg">
 </body>
 </html>
