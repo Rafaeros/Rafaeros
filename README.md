@@ -2,26 +2,15 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Yanone+Kaffeesatz&display=swap" rel="stylesheet">
-<meta charset="UTF-8">
-<style>
-  body {font-family: "Fira Sans Condensed", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  text-align: center;}
-</style>
 
-<style>
-  div.bio {text-align: left;}
-</style>
+<meta charset="UTF-8">
 </head>
 
-<body>
+<body  style="font-family: Fira Sans Condensed; sans-serif; font-weight: 400; font-style: normal;  text-align: center;">
 
-<div>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BED7DC&height=120&section=head"/>
-</div>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BED7DC&height=120&section=head"/> 
 
-<div class="bio">
+<div style="text-align: left; border: 1px solid black; padding: 1rem; border-radius:2rem; box-shadow: 2px 2px 2px">
 <h3>I'm Rafael, a student a student of systems analysis and development on UNIFIL 👨‍💻</h3>
   
 <h3>● 🔭I'm looking for my first job.</h3> 
