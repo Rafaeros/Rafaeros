@@ -1,16 +1,7 @@
-<head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Yanone+Kaffeesatz&display=swap" rel="stylesheet">
+<div align=center>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7ABA78&height=120&section=head"/> 
 
-<meta charset="UTF-8">
-</head>
-
-<body  style="font-family: Fira Sans Condensed; sans-serif; font-weight: 400; font-style: normal;  text-align: center;">
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BED7DC&height=120&section=head"/> 
-
-<div style="text-align: left; border: 1px solid black; padding: 1rem; border-radius:2rem; box-shadow: 2px 2px 2px">
+<div align=left>
 <h3>I'm Rafael, a student a student of systems analysis and development on UNIFIL 👨‍💻</h3>
   
 <h3>● 🔭I'm looking for my first job.</h3> 
@@ -21,9 +12,9 @@
 </div>
 <br>
 
-<p style="text-decoration: underline; font-size:2rem">Learning these skills ⬇️📚</p>
+<h2>Learning these skills ⬇️📚</h3>
 
-<h2>Frontend 💻🎨</h2>
+<h3>Frontend 💻🎨</h2>
 <div>  
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +24,7 @@
 
 </div>
 
-<h2>Backend 👨🏻‍💻🗃️</h2>
+<h3>Backend 👨🏻‍💻🗃️</h2>
 <div>  
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,7 +33,7 @@
 
 </div> 
 
-<h2>Tools 🛠️🔧</h2>
+<h3>Tools 🛠️🔧</h2>
 <div>
 
   ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
@@ -52,7 +43,7 @@
 
 </div>
 
-<h2>Connect with me 📲💬</h2>
+<h3>Connect with me 📲💬</h2>
 <div>
 <br>
 <a href="https://github.com/Rafaeros" target="_blank">
@@ -78,9 +69,9 @@
    ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rafaeros&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&card_width=470)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BED7DC&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7ABA78&height=120&section=footer"/>
 
   <br/>
   <hr>
 </div>  
-</body>
+</div>
