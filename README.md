@@ -4,8 +4,6 @@
 <div align=left>
 <h3>I'm Rafael, a student a student of systems analysis and development on UNIFIL 👨‍💻</h3>
   
-<h3>● 🔭I'm looking for my first job.</h3> 
-  
 <h3>● 🌱 I’m currently learning HTML, CSS, JS and PYTHON.</h3>  
   
 <h3>● ⚡ Fun fact: My nickname is Rafaeros why i created this name for an rpg game.</h3> 
