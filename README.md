@@ -6,7 +6,7 @@
   
 <h3>● 🌱 I’m currently learning HTML, CSS, JS and PYTHON.</h3>  
   
-<h3>● ⚡ Fun fact: My nickname is Rafaeros why i created this name for an rpg game.</h3> 
+<h3>● ⚡ Fun fact: My nickname is Rafaeros because i created this name for an rpg game.</h3> 
 </div>
 <br>
 
