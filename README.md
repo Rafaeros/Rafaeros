@@ -64,7 +64,7 @@
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafaeros&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-   ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rafaeros&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&card_width=470)
+   ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rafaeros&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&card_width=470&hide=cmake,html,jupyter%20notebook,c%2B%2B,css,swift,c)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7ABA78&height=120&section=footer"/>
