@@ -24,7 +24,10 @@
 
 <h3>Backend 👨🏻‍💻🗃️</h2>
 <div>
+
+  ![Golang](https://img.shields.io/badge/golang-00ADD8?&style=for-the-badge&logo=go&logoColor=FFFFFF)
   ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+  
 </div> 
 
 <h3>Tools 🛠️🔧</h2>
