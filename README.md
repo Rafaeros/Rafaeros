@@ -23,12 +23,9 @@
 </div>
 
 <h3>Backend 👨🏻‍💻🗃️</h2>
-<div>  
-
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div>
+  ![Golang](https://img.shields.io/badge/golang-00ADD8?&style=plastic&logo=go&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-
-
 </div> 
 
 <h3>Tools 🛠️🔧</h2>
@@ -36,8 +33,6 @@
 
   ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
