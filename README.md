@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7ABA78&height=120&section=head"/> 
 
 <div align=left>
-<h3>● 🌱 I’m currently learning Python and Golang.</h3>  
+<h3>● 🌱 I’m currently learning Python, Javascript and Golang.</h3>  
   
 <h3>● ⚡ Fun fact: My nickname is Rafaeros because i created this name for an rpg game.</h3> 
 </div>
