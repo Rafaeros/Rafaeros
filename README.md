@@ -4,10 +4,10 @@
 <h2>About Me 🚀</h2>
 <div>
 
-<p>My name is Rafael Costa, Systems Analysis and Development Technologist, passionate about problem-solving, software architecture, and automation. I love working with Python, Golang and Javascript always seeking to improve my skills and build scalable, high-performance applications.
+<p>
+Hello, I'm Rafael Costa!
+Systems Analysis and Development Technologist focused on Backend Development, Software Architecture, and Process Automation. I'm passionate about building scalable and high-performance systems.
 </p>
-<p>With a strong interest in backend development and design patterns, I enjoy optimizing processes, working with APIs, databases (SQLite, PostgreSQL),. I'm also experienced in proccess automation, web scraping, and data processing, leveraging tools like  Requests, BeautifulSoup, AioHTTP, Selenium, Pandas and threading to enhance efficiency.</p>
-<p>🚀 Let’s connect and build something amazing!</p>
 
 </div>
 <hr>
@@ -15,30 +15,25 @@
 <h3>Learning these Languages 📚</h3>
 <div>
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Golang](https://img.shields.io/badge/golang-00ADD8?&style=for-the-badge&logo=go&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
-<h3>Frontend 🎨</h3>
+<h3>Frameworks 📚</h3>
+
 <div>
 
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+ 
 </div>
 
-<h3>Backend 🗃️</h3>
+<h3>Databases 🗃️</h3>
 <div>
 
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![LibSQL](https://img.shields.io/badge/LibSQL-316192?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -63,9 +58,6 @@
 <div>
   <a href="https://linkedin.com/in/rafaeros" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/rafaeros.code" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
 </div>
 <hr>
